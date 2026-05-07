@@ -1,6 +1,6 @@
 # Delivery Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Status](https://img.shields.io/badge/status-reserved-7B42BC?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--06-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Status](https://img.shields.io/badge/status-reserved-7B42BC?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--07-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *What does it take to deliver and run multiple customer engagements at once, without losing signal?*
 
