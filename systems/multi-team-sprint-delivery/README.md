@@ -4,7 +4,7 @@
 
 ## Overview
 
-A 90-minute simulated engineering sprint in which five parallel teams — 25 Cursor subagents total — deliver a shareholder-ready software package while running real DevSecOps and governance controls. The system answers a specific delivery question: *what does it take to keep status, security posture, and incident discipline coherent across multiple teams operating simultaneously, when AI is the throughput multiplier?*
+A multi-team engineering sprint in which five parallel teams — 25 Cursor subagents total — deliver a shareholder-ready software package while running real DevSecOps and governance controls. The system answers a specific delivery question: *what does it take to keep status, security posture, and incident discipline coherent across multiple teams operating simultaneously, when AI is the throughput multiplier?*
 
 The work is one engagement at compressed scale, but the **operating pattern is the building block for multi-engagement delivery**: `/multitask`-spawned subagents in isolated git worktrees per team, branch protection + CI gates that fail closed on Gitleaks / Semgrep / Trivy findings, ADRs that capture stack tradeoffs durably (e.g. Axum over Actix for the Rust gateway), and a KPI dashboard + executive summary that translates engineering execution into signal a board can act on. A mid-sprint Murphy's Law SQL-injection incident was contained in 8 minutes MTTR, and a Zero-Day CVE all-hands drill validated cross-team remediation under release-discipline pressure. The sprint produced 25 merged PRs at a 96% first-pass security-gate success rate — honestly recorded, not retroactively normalized.
 
