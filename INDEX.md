@@ -8,4 +8,6 @@ Multi-project, multi-team customer engagements built to scale from one client to
 
 ## Systems
 
-_No systems shipped in this lens yet. New systems land under [`./systems/`](./systems/) as they're built and validated._
+| # | System | What it does |
+|--:|---|---|
+| 1 | [Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/) | Multi-Team · Cursor · AI · DevSecOps |

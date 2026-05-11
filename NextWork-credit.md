@@ -1,8 +1,10 @@
 # NextWork Project Credit
 
-This portfolio repository will be built from NextWork projects, created via NextWork's [project generator](https://www.nextwork.org/) feature and completed by Roy G Piring Jr.
+This portfolio repository was built from NextWork projects, created via NextWork's [project generator](https://www.nextwork.org/) feature and completed by Roy G Piring Jr.
 
-_No NextWork projects in this repository yet. New projects land in `systems/` as they're built and validated._
+**Original NextWork projects:**
+
+- Multi-Team Sprint Delivery with Cursor Subagents
 
 ## About NextWork
 

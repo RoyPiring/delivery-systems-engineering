@@ -1,6 +1,6 @@
 # Delivery Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Status](https://img.shields.io/badge/status-reserved-7B42BC?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--10-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-1-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--10-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *What does it take to deliver and run multiple customer engagements at once, without losing signal?*
 
@@ -23,6 +23,6 @@ Engineering for the coordination of customer engagements across projects, teams,
 
 ## Systems
 
-_No systems shipped yet. This domain is reserved. New systems land under [`./systems/`](./systems/) as they're built and validated._
+- **[Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/)** — Multi-Team · Cursor · AI · DevSecOps
 
 
