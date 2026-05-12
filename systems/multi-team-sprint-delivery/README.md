@@ -137,13 +137,13 @@ The diagram shows the topology and data flow of the system as built. The full ar
 This system is built across **8 phases**:
 
 1. **Leading a 25-Engineer AI Organization**
-2. **Establishing Governance and Branch Protection**, -.
+2. **Establishing Governance and Branch Protection**
 3. **Sprint Planning Artifacts and Architecture Decision Records**
 4. **Configuring the Engineering Culture Layer and DevSecOps Pipeline**
 5. **Delivering 25 PRs Through Parallel Sprint Execution**
 6. **Responding to a Murphy's Law Security Incident**
 7. **Delivering a Shareholder-Ready Executive Package**
-8. **💎 Secret Mission: Zero-Day CVE All-Hands Incident Response**, -.
+8. **💎 Secret Mission: Zero-Day CVE All-Hands Incident Response**
 
 For the full walkthrough with screenshots and step-by-step content, see [`documents/multi-team-sprint-delivery.md`](./documents/multi-team-sprint-delivery.md).
 
