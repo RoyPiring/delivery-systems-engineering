@@ -4,7 +4,7 @@
 
 Multi-project, multi-team customer engagements built to scale from one client to many.
 
-> Reserved for incoming multi-engagement delivery patterns.
+> 1 of 10 planned delivery systems; next entries cover enterprise multi-engagement delivery and AI-augmented PMO patterns.
 
 ## Systems
 
