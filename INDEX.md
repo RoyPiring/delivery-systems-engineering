@@ -8,6 +8,6 @@ Multi-project, multi-team customer engagements built to scale from one client to
 
 ## Systems
 
-| # | System | What it does |
-|--:|---|---|
-| 1 | [Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/) | Multi-Team · Cursor · AI · DevSecOps |
+| # | System | Onboarded | Last updated | What it does |
+|--:|---|---|---|---|
+| 1 | [Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/) | 2026-05-10 | 2026-05-11 | Multi-Team · Cursor · AI · DevSecOps |
