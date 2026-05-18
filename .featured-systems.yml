@@ -1,0 +1,25 @@
+lens: delivery-systems-engineering
+featured_enabled: auto
+threshold: 1
+scored_at: '2026-05-18'
+human_pin: []
+systems:
+- slug: multi-team-sprint-delivery
+  axis_scores:
+    technical_depth: 8
+    voice: 8
+    validation: 6
+  axis_reasoning:
+    technical_depth: Eight-phase build with a named diagram covering Cursor /multitask,
+      worktrees, three-scanner CI gate, incident loop, and exec reporting, plus a
+      concrete stack tradeoff (Axum over Actix).
+    voice: 'Direct and specific: ''8-minute MTTR'', ''96% first-pass security-gate
+      success rate, honestly recorded, not retroactively normalized'' carries ownership
+      without filler.'
+    validation: Eight phases checked off and the doc supplies five NextWork screenshots,
+      but evidence is screenshot-only with no linked CI runs, PR list, or post-mortem
+      artifact.
+  average: 7.3
+  rationale: 25-agent sprint with 8-minute MTTR and 96% first-pass security-gate pass
+    rate, recorded honestly.
+  featured: true
