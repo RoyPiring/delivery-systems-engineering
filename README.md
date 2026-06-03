@@ -1,6 +1,6 @@
 # Delivery Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-1-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--23-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-2-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--06--03-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *What does it take to deliver and run multiple customer engagements at once, without losing signal?*
 
@@ -21,9 +21,9 @@ Engineering for the coordination of customer engagements across projects, teams,
 
 **What it isn't.** A single-system point solution. A regulated-industry deliverable. A founder's zero-to-one build.
 
-## Featured Systems
+## Systems
 
-- **[Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/)**: 25-agent sprint with 8-minute MTTR and 96% first-pass security-gate pass rate, recorded honestly.
-
+- **[Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/)**, Multi-Team · Cursor · AI · DevSecOps
+- **[25 AI Agents: Excalidraw to Linear](./systems/agent-canvas-to-linear/)**, AI · Linear · Canvas-Driven · MCP
 
 

@@ -4,10 +4,9 @@
 
 Multi-project, multi-team customer engagements built to scale from one client to many.
 
-> 1 of 10 planned delivery systems; next entries cover enterprise multi-engagement delivery and AI-augmented PMO patterns.
-
 ## Systems
 
 | # | System | Onboarded | Last updated | What it does |
 |--:|---|---|---|---|
 | 1 | [Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/) | 2026-05-10 | 2026-05-11 | Multi-Team · Cursor · AI · DevSecOps |
+| 2 | [25 AI Agents: Excalidraw to Linear](./systems/agent-canvas-to-linear/) | 2026-05-19 | 2026-05-19 | AI · Linear · Canvas-Driven · MCP |
