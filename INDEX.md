@@ -4,8 +4,6 @@
 
 Multi-project, multi-team customer engagements built to scale from one client to many.
 
-> Reserved for incoming multi-engagement delivery patterns.
-
 ## Systems
 
 | # | System | Onboarded | Last updated | What it does |
