@@ -123,7 +123,6 @@ flowchart TD
     KPIDash --> Retro
     ExecSummary -- "delivered to" --> Shareholders
     Retro -. "feedback into next sprint" .-> SprintPlan
-
     class Monorepo,RulesSkills,ADRs,SprintPlan,RiskRegister,SystemDiagrams,PostMortem,KPIDash,ExecSummary,Retro,Release datastore
     class CursorMax,Multitask,Worktrees,Alpha,Bravo,Charlie,Delta,Echo,Gitleaks,Semgrep,Trivy,Detect,Remediate,Regress,Harden service
     class BranchProtect,CIGate,PRMerge event
@@ -149,7 +148,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/multi-team-sprint-delivery.md`](./documents/multi-team-sprint-delivery.md):
+Each build phase below is documented in [`documents/multi-team-sprint-delivery.md`](./documents/multi-team-sprint-delivery.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ Leading a 25-Engineer AI Organization
 - ✅ Establishing Governance and Branch Protection

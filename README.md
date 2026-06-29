@@ -4,7 +4,7 @@
 
 > *What does it take to deliver and run multiple customer engagements at once, without losing signal?*
 
-Multi-project, multi-team customer engagements built to scale from one client to many. Each system in this domain ships with a Mermaid architecture diagram, a numbered implementation map, and a checkmark list of build outcomes verified end-to-end. The original source document is kept per system.
+Multi-project, multi-team customer engagements built to scale from one client to many. Each system in this domain ships with a Mermaid architecture diagram, a numbered implementation map, and a checkmark list of documented build phases. The original source document is kept per system.
 
 ## Who this is for
 

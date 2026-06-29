@@ -152,7 +152,6 @@ flowchart LR
     ClaudeValidate --> GeminiCross
     GeminiCross --> FinalScore
     Session30Tickets -.scored by.-> CodexAttack
-
     class Node,ClaudeDesktop,ClaudeCode,Codex,Gemini,ObsidianVault,ExcalidrawPlugin,Dataview service
     class FilesystemMCP,LinearMCP service
     class CouncilLead,TeamA,TeamB,TeamC,TeamD,TeamE service
@@ -184,7 +183,7 @@ For the full walkthrough with screenshots and step-by-step content, see [`docume
 
 ## Validation
 
-Build outcomes verified end-to-end. Each phase below is captured with screenshots, configuration, and observable behavior in [`documents/25-agent-canvas-to-linear.md`](./documents/25-agent-canvas-to-linear.md):
+Each build phase below is documented in [`documents/25-agent-canvas-to-linear.md`](./documents/25-agent-canvas-to-linear.md), with screenshots, configuration, and notes as captured during the build:
 
 - ✅ The Vision: Building a Canvas-Driven Agentic Delivery System
 - ✅ Setting Up the Toolchain and Workspace
