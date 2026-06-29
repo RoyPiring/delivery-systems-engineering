@@ -123,11 +123,11 @@ This reinforced that governance metrics are valuable only if they reflect real e
 
 ### Sprint retrospective and continuous improvement
 
-The retrospective documented what succeeded, what failed, and what process improvements were introduced after the sprint.
+The retrospective documented what succeeded, what failed, and what process changes were introduced after the sprint.
 
-The primary failure identified was the SQL injection pattern bypassing initial human review before automated controls detected it. Follow-up improvements included stronger Semgrep enforcement, expanded middleware validation, and updated security review requirements.
+The primary failure identified was the SQL injection pattern bypassing initial human review before automated controls detected it. Follow-up fixes included stronger Semgrep enforcement, expanded middleware validation, and updated security review requirements.
 
-This created a continuous-improvement loop where incidents directly informed operational hardening.
+This created a continuous feedback loop where incidents directly informed operational hardening.
 
 ## 💎 Secret Mission: Zero-Day CVE All-Hands Incident Response
 
@@ -159,7 +159,7 @@ The most valuable takeaway was understanding how AI agents behave within organiz
 
 The simulation reinforced that scaling AI engineering workflows requires governance, operational controls, delivery discipline, and incident-response maturity alongside automation itself.
 
-The next area I want to improve is optimizing orchestration patterns for larger multi-agent engineering systems operating across longer delivery cycles.
+The next area I want to sharpen is tightening orchestration patterns for larger multi-agent engineering systems operating across longer delivery cycles.
 
 ---
 
