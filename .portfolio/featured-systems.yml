@@ -1,9 +1,43 @@
 lens: delivery-systems-engineering
 featured_enabled: auto
 threshold: 1
-scored_at: '2026-05-18'
+scored_at: '2026-07-07'
 human_pin: []
 systems:
+- slug: agent-canvas-to-linear
+  axis_scores:
+    technical_depth: 8
+    voice: 6
+    validation: 6
+  axis_reasoning:
+    technical_depth: Diagram names real toolchain versions, 25 agents in 5 teams,
+      governance YAML files, and a triangulation scorecard, though the README prose
+      omits failure recovery.
+    voice: Direct on decisions like ADR-003 and vault-owns-state, but abstract portability
+      phrasing repeats across phases and dilutes the signal.
+    validation: Strongest is Linear shipping with 30 tickets split 12/8/10 verified
+      via MCP plus an orphan check, but the section itself is a uniform checkmark
+      list pointing to one doc.
+  average: 6.67
+  rationale: 25-agent Excalidraw-to-Linear pipeline verified via MCP with a 98/100
+    triangulation score
+  featured: true
+- slug: ai-executive-review-system
+  axis_scores:
+    technical_depth: 8
+    voice: 8
+    validation: 7
+  axis_reasoning:
+    technical_depth: Dense governance topology names the read-only reconciler, verify-then-merge
+      gate, three-tier metric tree, and pre-mortem sign-off gate with clear edges.
+    voice: Direct and candid, labels the five n8n triggers specification-only and
+      definitions DRAFT rather than overclaiming a running system.
+    validation: Per-phase checklist with the live dispute rehearsal tracing MET-O1
+      to DR-001 as strongest evidence, but numbers stay DRAFT and unratified.
+  average: 7.67
+  rationale: MBR/QBR governance where a read-only reconciler flags every number before
+    it reaches the room
+  featured: true
 - slug: multi-team-sprint-delivery
   axis_scores:
     technical_depth: 8

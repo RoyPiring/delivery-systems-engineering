@@ -1,6 +1,6 @@
 # Delivery Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-2-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--06--25-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-3-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--07--07-264653?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *What does it take to deliver and run multiple customer engagements at once, without losing signal?*
 
@@ -23,8 +23,8 @@ Engineering for the coordination of customer engagements across projects, teams,
 
 ## Featured Systems
 
+- **[25 AI Agents: Excalidraw to Linear](./systems/agent-canvas-to-linear/)**: 25-agent Excalidraw-to-Linear pipeline verified via MCP with a 98/100 triangulation score
+- **[AI-Powered Executive Review System](./systems/ai-executive-review-system/)**: MBR/QBR governance where a read-only reconciler flags every number before it reaches the room
 - **[Multi-Team Sprint Delivery with Cursor Subagents](./systems/multi-team-sprint-delivery/)**: 25-agent sprint with 8-minute MTTR and 96% first-pass security-gate pass rate, recorded honestly.
-
-_+ 1 other system in the full catalog: [`INDEX.md`](./INDEX.md)._
 
 
