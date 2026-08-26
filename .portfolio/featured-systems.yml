@@ -1,7 +1,7 @@
 lens: delivery-systems-engineering
 featured_enabled: auto
 threshold: 1
-scored_at: '2026-07-07'
+scored_at: '2026-08-25'
 human_pin: []
 systems:
 - slug: agent-canvas-to-linear
@@ -56,4 +56,29 @@ systems:
   average: 7.3
   rationale: 25-agent sprint with 8-minute MTTR and 96% first-pass security-gate pass
     rate, recorded honestly.
+  featured: true
+- slug: cross-program-capacity-planning
+  axis_scores:
+    technical_depth: 9
+    voice: 9
+    validation: 9
+  axis_reasoning:
+    technical_depth: Portfolio capacity modelled in competent hours rather than headcount,
+      with three ADR commitments written before any number, a manifest-backed evidence
+      audit, single-route gap arithmetic testing forecast start plus time-to-competence
+      against the earliest demanding milestone, attrition scenarios reusing the same
+      definitions rather than forking them, and three validation checks reconciled to
+      one declared manifest.
+    voice: The build states what it cannot claim as clearly as what it proves, naming
+      retention and ratification latency as out of reach, labelling the 75% forecast as
+      dependent on five builds landing and two contractors engaging, and retracting two
+      unsupported statements from the supplied presentation, that no real milestone slip
+      occurred and that the roster held three people rather than thirteen.
+    validation: Hard numbers throughout and each traceable, 12 of 12 person-skill keys
+      present with 8 UNPROVEN, 3 of 8 gaps rerouted after 28 weeks of ramp failed an
+      18-week deadline, and 3120 nominal hours against 1560 at a competence factor of
+      zero giving the exact 2x overstatement; bounded honestly, since the slips came from
+      constructed scenarios rather than observed delivery.
+  average: 9.0
+  rationale: Capacity measured in competent hours, where headcount overstated capability by exactly 2x and an absence check only counts if it read every row
   featured: true
