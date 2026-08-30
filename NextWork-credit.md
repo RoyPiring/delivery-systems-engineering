@@ -4,6 +4,9 @@ This portfolio repository was built from NextWork projects, created via NextWork
 
 **Original NextWork projects:**
 
+- 25 AI Agents: Excalidraw to Linear
+- AI-Powered Executive Review System
+- Cross-Program Capacity Planning
 - Multi-Team Sprint Delivery with Cursor Subagents
 
 ## About NextWork
